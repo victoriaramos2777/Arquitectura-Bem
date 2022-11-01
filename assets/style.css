@@ -5,7 +5,7 @@
 }
 
 body{
-    border:solid;
+    border: 1px solid;
     margin: 5%;
     width: 70%;
 }
@@ -17,15 +17,17 @@ body{
 }
 
 .navigation--list__item{
-    border: solid;
+    border: 1px solid;
     padding: 3%;
     width: 90%;
+    font-size: 25px;
 }
 .titulo {
-    border: solid;
+    border:1px  solid;
     width: 60%;
     margin: 5%;
     margin-left: 20% ;
+    font-size: 25px;
 }
 .titulo__item {
     margin: 3%;
@@ -45,13 +47,16 @@ body{
 }
 .login-form__label-2{
     margin-right: 5%;
+    font-size:25px ;
 }
 .login-form__label-1 {
     margin-right: 10%;
+    font-size:25px ;
 }
 
 .login-form__label-4{
     margin-left: 11%;
+    font-size:25px ;
 }
 .login-form--label__input-4{
     width: 5%;
@@ -63,14 +68,14 @@ body{
 }
 
 .button {
-    font-size: 15px;
+    font-size: 20px;
     width: 10%;
     margin-left: 30%;
     margin-bottom: 5%;
 }
 .footer {
     width: 100%;
-    border: solid;
+    border: 1px solid;
     display: flex;
     justify-content: space-between;
     
