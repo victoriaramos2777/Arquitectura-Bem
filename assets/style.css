@@ -1,0 +1,37 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    border:solid;
+    width:100%;
+}
+.navigation__list {
+    display: flex;
+     width: 100%;
+    list-style: none;
+    
+}
+
+.navigation--list__item{
+    border: solid;
+    padding: 3%;
+    width: 100%;
+}
+.titulo {
+    border: solid;
+    width: 60%;
+    margin: 5%;
+    margin-left: 20% ;
+}
+.titulo__item {
+    margin: 3%;
+    text-align: center;
+}
+ 
+.titulo--item__parrafo {
+    text-align: justify;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 2%;
+}
